@@ -1,6 +1,7 @@
 # Code and Data for "Hidden declines in a seemingly secure Australian frog species"
 
 **Authors:** Jordann Crawford-Ash, Stephanie Pulsford, Will Osborne, Danswell Starrs, Geoffrey W. Heard, Ben C. Scheele 
+
 **Corresponding author:** jordann.crawford-ash@anu.edu.au 
 
 ## Description
