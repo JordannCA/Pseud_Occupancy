@@ -17,6 +17,6 @@ Submitted to Ecology and Evolution for review, October 2025.
 
 ## Requirements
 
-- All analysis done in R studio.
+- All analysis done in R version 4.4.1.
 - Language: R 4.3 or above
 - all packages required to run listed in code files. 
